@@ -1,0 +1,1 @@
+This project is called Recipes and will be demonstrating my HTML abilities. These abilities include using the HTML5 boilerplate and basic HTML tags to add headings, links, images, lists, and separate paragraphs.
